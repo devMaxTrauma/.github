@@ -35,6 +35,7 @@
 ### Software
 - [S:IDE™](https://github.com/ellystargram/SIDE) - 자체개발 Python 위주의 IDE
 - [rOS™](https://github.com/devMaxTrauma/rOS) - Raspberry Pi 에서 돌아가는 텐서플로우 운영 체제
+- [SLD™](https://github.com/devMaxTrauma/SLD) - FindMy기능을 활용할 수 있게 해주는 Android용 앱
 
 ### OneDrive
 - [devMaxTrauma](https://1drv.ms/f/s!AoxgIdA9pSOjgcc-bGrW2MrLag1mlA?e=bQdmH5) - 모든 프로젝트파일이 있는 클라우드. 원천.
@@ -76,7 +77,11 @@
   </a>
 - <a href="https:/x.com/techno_sexking"> 
   <img src="https://freepnglogo.com/images/all_img/1691832581twitter-x-icon-png.png" width="20" alt="X logo">
-</a>
+  </a>
+- <a href="https://github.com/ellystargram">
+  <img src="https://cdn.icon-icons.com/icons2/3685/PNG/512/github_logo_icon_229278.png" width="20" alt="Github logo">
+  </a>
+
 
 ### 송다연
 >Role: Circuit Master
