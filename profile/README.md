@@ -100,8 +100,7 @@ BL™ v1의 소프트웨어는 오픈소스로 제공되며, 누구나 이를 �
 - [S:IDE™](https://github.com/ellystargram/SIDE) - 자체개발 Code Editor, Kotlin 기반
 - [rOS™](https://github.com/ellystargram/rOS) - Raspberry Pi 에서 돌아가는 텐서플로우 운영 체제
 - [SLD™](https://github.com/devMaxTrauma/SLD) - FindMy기능을 활용할 수 있게 해주는 Android용 앱
-
-[//]: # (- [devMaxTrauma. Inc.™]&#40;https://github.com/devMaxTrauma&#41; - devMaxTrauma. Inc.의 모든 프로젝트 결과물)
+- [devMaxTrauma. Inc.™](https://github.com/devMaxTrauma/Drive) - devMaxTrauma. Inc.의 모든 프로젝트 결과물
 
 [//]: # (### OneDrive)
 
