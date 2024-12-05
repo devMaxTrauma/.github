@@ -151,7 +151,7 @@ BL™ v1의 소프트웨어는 오픈소스로 제공되며, 누구나 이를 �
 - <a href="https://discordapp.com/users/479559804021506049">
   <img src="https://static.vecteezy.com/system/resources/previews/018/930/718/original/discord-logo-discord-icon-transparent-free-png.png" width="20" alt="Discord logo">
   </a>
-- <a href="https:/x.com/techno_sexking"> 
+- <a href="https://x.com/techno_sexking"> 
   <img src="https://freepnglogo.com/images/all_img/1691832581twitter-x-icon-png.png" width="20" alt="X logo">
   </a>
 - <a href="https://github.com/ellystargram">
